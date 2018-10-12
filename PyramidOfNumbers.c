@@ -1,3 +1,9 @@
+/*
+  1
+ 234
+56789  
+*/
+
 #include<stdio.h>
 int main()
 {
