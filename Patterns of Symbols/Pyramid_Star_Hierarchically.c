@@ -1,3 +1,9 @@
+/*
+Enter number of rows: 3
+    *
+  * * *
+* * * * *
+*/
 #include <stdio.h>
 int main()
 {
