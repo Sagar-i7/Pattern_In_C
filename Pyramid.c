@@ -1,5 +1,5 @@
 #include <stdio.h>
-void main()
+int main()
 {
     int i, space, rows, k=0;
 
@@ -22,5 +22,5 @@ void main()
         printf("\n");
     }
     
-    return 0;
+    return (0);
 }
